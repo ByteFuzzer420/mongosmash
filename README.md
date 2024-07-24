@@ -16,7 +16,7 @@ MongoSmash is a Python tool designed to scan a list of IP addresses, attempt to 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/mongosmash.git
+    git clone https://github.com/kathuluman/mongosmash.git
     cd mongosmash
     ```
 

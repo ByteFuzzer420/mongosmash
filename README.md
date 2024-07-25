@@ -48,5 +48,5 @@ Enter the number of threads to use: 10
 
 ## Configuration
 
-- **Logging**:Logs are displayed in the console using Rich.
+- **Logging**: Logs are displayed in the console using Rich.
 - **Directories**: Data is stored in the `.mongosmash/collections` directory.

@@ -1,4 +1,4 @@
-![mongosmash](https://img.shields.io/github/license/kathuluman/mongosmash?color=blue&style=for-the-badge) ![Version](https://img.shields.io/github/v/tag/kathuluman/mongosmash?color=blue&style=for-the-badge)
+![mongosmash](https://img.shields.io/github/license/ByteFuzzer420/mongosmash?color=blue&style=for-the-badge) ![Version](https://img.shields.io/github/v/tag/ByteFuzzer420/mongosmash?color=blue&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/version-3.0.0-green?style=for-the-badge)
 
@@ -18,7 +18,7 @@ MongoSmash is a Python tool designed to scan a list of IP addresses, attempt to 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/kathuluman/mongosmash.git
+    git clone https://github.com/ByteFuzzer420/mongosmash.git
     cd mongosmash
     ```
 
